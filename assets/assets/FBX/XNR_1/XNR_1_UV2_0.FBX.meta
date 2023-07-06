@@ -1,0 +1,2420 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc",
+  "files": [],
+  "subMetas": {
+    "32462": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@32462",
+      "displayName": "",
+      "id": "32462",
+      "name": "贴图 #75-23.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@ce987"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "39194": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@39194",
+      "displayName": "",
+      "id": "39194",
+      "name": "贴图 #75-9.image",
+      "userData": {
+        "gltfIndex": 9
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "48281": {
+      "importer": "gltf-material",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@48281",
+      "displayName": "",
+      "id": "48281",
+      "name": "XNR_1_UV2_20.material",
+      "userData": {
+        "gltfIndex": 18
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "49783": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@49783",
+      "displayName": "",
+      "id": "49783",
+      "name": "贴图 #75-35.image",
+      "userData": {
+        "gltfIndex": 35
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "52834": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@52834",
+      "displayName": "",
+      "id": "52834",
+      "name": "贴图 #75-37.image",
+      "userData": {
+        "gltfIndex": 37
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "62120": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@62120",
+      "displayName": "",
+      "id": "62120",
+      "name": "贴图 #75-9.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@39194"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "64727": {
+      "importer": "gltf-material",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@64727",
+      "displayName": "",
+      "id": "64727",
+      "name": "XNR_1_UV2_17.material",
+      "userData": {
+        "gltfIndex": 15
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "72859": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@72859",
+      "displayName": "",
+      "id": "72859",
+      "name": "贴图 #75-19.image",
+      "userData": {
+        "gltfIndex": 19
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "77000": {
+      "importer": "gltf-material",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@77000",
+      "displayName": "",
+      "id": "77000",
+      "name": "XNR_1_UV2_8.material",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "87906": {
+      "importer": "gltf-mesh",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@87906",
+      "displayName": "",
+      "id": "87906",
+      "name": "XNR_1_UV2_10.mesh",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "91299": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@91299",
+      "displayName": "",
+      "id": "91299",
+      "name": "贴图 #72-14.image",
+      "userData": {
+        "gltfIndex": 14
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "99088": {
+      "importer": "gltf-material",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@99088",
+      "displayName": "",
+      "id": "99088",
+      "name": "XNR_1_UV2_16.material",
+      "userData": {
+        "gltfIndex": 14
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "74d76": {
+      "importer": "gltf-mesh",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@74d76",
+      "displayName": "",
+      "id": "74d76",
+      "name": "XNR_1_UV2_2.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ea172": {
+      "importer": "gltf-mesh",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@ea172",
+      "displayName": "",
+      "id": "ea172",
+      "name": "XNR_1_UV2_3.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a898e": {
+      "importer": "gltf-mesh",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@a898e",
+      "displayName": "",
+      "id": "a898e",
+      "name": "XNR_1_UV2_4.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b4781": {
+      "importer": "gltf-mesh",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@b4781",
+      "displayName": "",
+      "id": "b4781",
+      "name": "XNR_1_UV2_5.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "58b9a": {
+      "importer": "gltf-mesh",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@58b9a",
+      "displayName": "",
+      "id": "58b9a",
+      "name": "XNR_1_UV2_6.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f620a": {
+      "importer": "gltf-mesh",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@f620a",
+      "displayName": "",
+      "id": "f620a",
+      "name": "XNR_1_UV2_7.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4ee1f": {
+      "importer": "gltf-mesh",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@4ee1f",
+      "displayName": "",
+      "id": "4ee1f",
+      "name": "XNR_1_UV2_8.mesh",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9ae27": {
+      "importer": "gltf-mesh",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@9ae27",
+      "displayName": "",
+      "id": "9ae27",
+      "name": "XNR_1_UV2_9.mesh",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1b670": {
+      "importer": "gltf-mesh",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@1b670",
+      "displayName": "",
+      "id": "1b670",
+      "name": "XNR_1_UV2_11.mesh",
+      "userData": {
+        "gltfIndex": 9
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "878f9": {
+      "importer": "gltf-mesh",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@878f9",
+      "displayName": "",
+      "id": "878f9",
+      "name": "XNR_1_UV2_12.mesh",
+      "userData": {
+        "gltfIndex": 10
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9f7b8": {
+      "importer": "gltf-mesh",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@9f7b8",
+      "displayName": "",
+      "id": "9f7b8",
+      "name": "XNR_1_UV2_13.mesh",
+      "userData": {
+        "gltfIndex": 11
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6c0b2": {
+      "importer": "gltf-mesh",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@6c0b2",
+      "displayName": "",
+      "id": "6c0b2",
+      "name": "XNR_1_UV2_14.mesh",
+      "userData": {
+        "gltfIndex": 12
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "90bc9": {
+      "importer": "gltf-mesh",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@90bc9",
+      "displayName": "",
+      "id": "90bc9",
+      "name": "XNR_1_UV2_15.mesh",
+      "userData": {
+        "gltfIndex": 13
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8805a": {
+      "importer": "gltf-mesh",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@8805a",
+      "displayName": "",
+      "id": "8805a",
+      "name": "XNR_1_UV2_16.mesh",
+      "userData": {
+        "gltfIndex": 14
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "21ab8": {
+      "importer": "gltf-mesh",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@21ab8",
+      "displayName": "",
+      "id": "21ab8",
+      "name": "XNR_1_UV2_17.mesh",
+      "userData": {
+        "gltfIndex": 15
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3f05b": {
+      "importer": "gltf-mesh",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@3f05b",
+      "displayName": "",
+      "id": "3f05b",
+      "name": "XNR_1_UV2_18.mesh",
+      "userData": {
+        "gltfIndex": 16
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e8f8e": {
+      "importer": "gltf-mesh",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@e8f8e",
+      "displayName": "",
+      "id": "e8f8e",
+      "name": "XNR_1_UV2_19.mesh",
+      "userData": {
+        "gltfIndex": 17
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b1704": {
+      "importer": "gltf-mesh",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@b1704",
+      "displayName": "",
+      "id": "b1704",
+      "name": "XNR_1_UV2_20.mesh",
+      "userData": {
+        "gltfIndex": 18
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e0843": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@e0843",
+      "displayName": "",
+      "id": "e0843",
+      "name": "贴图 #72-0.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "08511": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@08511",
+      "displayName": "",
+      "id": "08511",
+      "name": "贴图 #75-1.image",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "1940f": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@1940f",
+      "displayName": "",
+      "id": "1940f",
+      "name": "贴图 #72-2.image",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "cdad5": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@cdad5",
+      "displayName": "",
+      "id": "cdad5",
+      "name": "贴图 #75-3.image",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "291a9": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@291a9",
+      "displayName": "",
+      "id": "291a9",
+      "name": "贴图 #72-4.image",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "c96d6": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@c96d6",
+      "displayName": "",
+      "id": "c96d6",
+      "name": "贴图 #75-5.image",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "81b27": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@81b27",
+      "displayName": "",
+      "id": "81b27",
+      "name": "贴图 #72-6.image",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "2b2b9": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@2b2b9",
+      "displayName": "",
+      "id": "2b2b9",
+      "name": "贴图 #75-7.image",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "9eea3": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@9eea3",
+      "displayName": "",
+      "id": "9eea3",
+      "name": "贴图 #72-8.image",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "6fc8d": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@6fc8d",
+      "displayName": "",
+      "id": "6fc8d",
+      "name": "贴图 #72-10.image",
+      "userData": {
+        "gltfIndex": 10
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "02c9a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@02c9a",
+      "displayName": "",
+      "id": "02c9a",
+      "name": "贴图 #75-11.image",
+      "userData": {
+        "gltfIndex": 11
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "f2c65": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@f2c65",
+      "displayName": "",
+      "id": "f2c65",
+      "name": "贴图 #72-12.image",
+      "userData": {
+        "gltfIndex": 12
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "93d8e": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@93d8e",
+      "displayName": "",
+      "id": "93d8e",
+      "name": "贴图 #75-13.image",
+      "userData": {
+        "gltfIndex": 13
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "c5aab": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@c5aab",
+      "displayName": "",
+      "id": "c5aab",
+      "name": "贴图 #75-15.image",
+      "userData": {
+        "gltfIndex": 15
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "7fe11": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@7fe11",
+      "displayName": "",
+      "id": "7fe11",
+      "name": "贴图 #72-16.image",
+      "userData": {
+        "gltfIndex": 16
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "394ba": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@394ba",
+      "displayName": "",
+      "id": "394ba",
+      "name": "贴图 #75-17.image",
+      "userData": {
+        "gltfIndex": 17
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "f6974": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@f6974",
+      "displayName": "",
+      "id": "f6974",
+      "name": "贴图 #72-18.image",
+      "userData": {
+        "gltfIndex": 18
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "89f0c": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@89f0c",
+      "displayName": "",
+      "id": "89f0c",
+      "name": "贴图 #72-20.image",
+      "userData": {
+        "gltfIndex": 20
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "b55e6": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@b55e6",
+      "displayName": "",
+      "id": "b55e6",
+      "name": "贴图 #75-21.image",
+      "userData": {
+        "gltfIndex": 21
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "3a375": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@3a375",
+      "displayName": "",
+      "id": "3a375",
+      "name": "贴图 #72-22.image",
+      "userData": {
+        "gltfIndex": 22
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ce987": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@ce987",
+      "displayName": "",
+      "id": "ce987",
+      "name": "贴图 #75-23.image",
+      "userData": {
+        "gltfIndex": 23
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "e1516": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@e1516",
+      "displayName": "",
+      "id": "e1516",
+      "name": "贴图 #72-24.image",
+      "userData": {
+        "gltfIndex": 24
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "9724e": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@9724e",
+      "displayName": "",
+      "id": "9724e",
+      "name": "贴图 #75-25.image",
+      "userData": {
+        "gltfIndex": 25
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "9e731": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@9e731",
+      "displayName": "",
+      "id": "9e731",
+      "name": "贴图 #72-26.image",
+      "userData": {
+        "gltfIndex": 26
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "d4f4f": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@d4f4f",
+      "displayName": "",
+      "id": "d4f4f",
+      "name": "贴图 #75-27.image",
+      "userData": {
+        "gltfIndex": 27
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "4f31c": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@4f31c",
+      "displayName": "",
+      "id": "4f31c",
+      "name": "贴图 #72-28.image",
+      "userData": {
+        "gltfIndex": 28
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "845ef": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@845ef",
+      "displayName": "",
+      "id": "845ef",
+      "name": "贴图 #75-29.image",
+      "userData": {
+        "gltfIndex": 29
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "eadba": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@eadba",
+      "displayName": "",
+      "id": "eadba",
+      "name": "贴图 #72-30.image",
+      "userData": {
+        "gltfIndex": 30
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "7d777": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@7d777",
+      "displayName": "",
+      "id": "7d777",
+      "name": "贴图 #75-31.image",
+      "userData": {
+        "gltfIndex": 31
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "9a900": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@9a900",
+      "displayName": "",
+      "id": "9a900",
+      "name": "贴图 #72-32.image",
+      "userData": {
+        "gltfIndex": 32
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ab461": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@ab461",
+      "displayName": "",
+      "id": "ab461",
+      "name": "贴图 #75-33.image",
+      "userData": {
+        "gltfIndex": 33
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "e41d7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@e41d7",
+      "displayName": "",
+      "id": "e41d7",
+      "name": "贴图 #72-34.image",
+      "userData": {
+        "gltfIndex": 34
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "b1fc2": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@b1fc2",
+      "displayName": "",
+      "id": "b1fc2",
+      "name": "贴图 #72-36.image",
+      "userData": {
+        "gltfIndex": 36
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "4cec0": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@4cec0",
+      "displayName": "",
+      "id": "4cec0",
+      "name": "贴图 #72-0.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@e0843"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1810f": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@1810f",
+      "displayName": "",
+      "id": "1810f",
+      "name": "贴图 #75-1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@08511"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b04f4": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@b04f4",
+      "displayName": "",
+      "id": "b04f4",
+      "name": "贴图 #72-2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@1940f"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e0b94": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@e0b94",
+      "displayName": "",
+      "id": "e0b94",
+      "name": "贴图 #75-3.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@cdad5"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4fc76": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@4fc76",
+      "displayName": "",
+      "id": "4fc76",
+      "name": "贴图 #72-4.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@291a9"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5d6d8": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@5d6d8",
+      "displayName": "",
+      "id": "5d6d8",
+      "name": "贴图 #75-5.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@c96d6"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d160": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@8d160",
+      "displayName": "",
+      "id": "8d160",
+      "name": "贴图 #72-6.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@81b27"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0547a": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@0547a",
+      "displayName": "",
+      "id": "0547a",
+      "name": "贴图 #75-7.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@2b2b9"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "676c0": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@676c0",
+      "displayName": "",
+      "id": "676c0",
+      "name": "贴图 #72-8.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@9eea3"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8f49f": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@8f49f",
+      "displayName": "",
+      "id": "8f49f",
+      "name": "贴图 #72-10.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@6fc8d"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d88da": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@d88da",
+      "displayName": "",
+      "id": "d88da",
+      "name": "贴图 #75-11.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@02c9a"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "69ed5": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@69ed5",
+      "displayName": "",
+      "id": "69ed5",
+      "name": "贴图 #72-12.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@f2c65"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "87fb2": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@87fb2",
+      "displayName": "",
+      "id": "87fb2",
+      "name": "贴图 #75-13.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@93d8e"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d1454": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@d1454",
+      "displayName": "",
+      "id": "d1454",
+      "name": "贴图 #72-14.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@91299"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "55a45": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@55a45",
+      "displayName": "",
+      "id": "55a45",
+      "name": "贴图 #75-15.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@c5aab"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a1f84": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@a1f84",
+      "displayName": "",
+      "id": "a1f84",
+      "name": "贴图 #72-16.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@7fe11"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7ebce": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@7ebce",
+      "displayName": "",
+      "id": "7ebce",
+      "name": "贴图 #75-17.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@394ba"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ba3f9": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@ba3f9",
+      "displayName": "",
+      "id": "ba3f9",
+      "name": "贴图 #72-18.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@f6974"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "328f6": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@328f6",
+      "displayName": "",
+      "id": "328f6",
+      "name": "贴图 #75-19.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@72859"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d454b": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@d454b",
+      "displayName": "",
+      "id": "d454b",
+      "name": "贴图 #72-20.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@89f0c"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7fb19": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@7fb19",
+      "displayName": "",
+      "id": "7fb19",
+      "name": "贴图 #75-21.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@b55e6"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5843": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@a5843",
+      "displayName": "",
+      "id": "a5843",
+      "name": "贴图 #72-22.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@3a375"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7e1bf": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@7e1bf",
+      "displayName": "",
+      "id": "7e1bf",
+      "name": "贴图 #72-24.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@e1516"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1247b": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@1247b",
+      "displayName": "",
+      "id": "1247b",
+      "name": "贴图 #75-25.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@9724e"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e6fd4": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@e6fd4",
+      "displayName": "",
+      "id": "e6fd4",
+      "name": "贴图 #72-26.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@9e731"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "44fa4": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@44fa4",
+      "displayName": "",
+      "id": "44fa4",
+      "name": "贴图 #75-27.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@d4f4f"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2b1e4": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@2b1e4",
+      "displayName": "",
+      "id": "2b1e4",
+      "name": "贴图 #72-28.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@4f31c"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e0ed6": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@e0ed6",
+      "displayName": "",
+      "id": "e0ed6",
+      "name": "贴图 #75-29.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@845ef"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6e4fd": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@6e4fd",
+      "displayName": "",
+      "id": "6e4fd",
+      "name": "贴图 #72-30.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@eadba"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b98bb": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@b98bb",
+      "displayName": "",
+      "id": "b98bb",
+      "name": "贴图 #75-31.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@7d777"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a9f6b": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@a9f6b",
+      "displayName": "",
+      "id": "a9f6b",
+      "name": "贴图 #72-32.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@9a900"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "26b6a": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@26b6a",
+      "displayName": "",
+      "id": "26b6a",
+      "name": "贴图 #75-33.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@ab461"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2f923": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@2f923",
+      "displayName": "",
+      "id": "2f923",
+      "name": "贴图 #72-34.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@e41d7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4be73": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@4be73",
+      "displayName": "",
+      "id": "4be73",
+      "name": "贴图 #75-35.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@49783"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f652d": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@f652d",
+      "displayName": "",
+      "id": "f652d",
+      "name": "贴图 #72-36.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@b1fc2"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "80af5": {
+      "importer": "texture",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@80af5",
+      "displayName": "",
+      "id": "80af5",
+      "name": "贴图 #75-37.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@52834"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9307b": {
+      "importer": "gltf-material",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@9307b",
+      "displayName": "",
+      "id": "9307b",
+      "name": "XNR_1_UV2_2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "90f1f": {
+      "importer": "gltf-material",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@90f1f",
+      "displayName": "",
+      "id": "90f1f",
+      "name": "XNR_1_UV2_3.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "46dcb": {
+      "importer": "gltf-material",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@46dcb",
+      "displayName": "",
+      "id": "46dcb",
+      "name": "XNR_1_UV2_4.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "833c2": {
+      "importer": "gltf-material",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@833c2",
+      "displayName": "",
+      "id": "833c2",
+      "name": "XNR_1_UV2_5.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b6b2e": {
+      "importer": "gltf-material",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@b6b2e",
+      "displayName": "",
+      "id": "b6b2e",
+      "name": "XNR_1_UV2_6.material",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dca20": {
+      "importer": "gltf-material",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@dca20",
+      "displayName": "",
+      "id": "dca20",
+      "name": "XNR_1_UV2_7.material",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5d97b": {
+      "importer": "gltf-material",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@5d97b",
+      "displayName": "",
+      "id": "5d97b",
+      "name": "XNR_1_UV2_9.material",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2d3d7": {
+      "importer": "gltf-material",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@2d3d7",
+      "displayName": "",
+      "id": "2d3d7",
+      "name": "XNR_1_UV2_10.material",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4d032": {
+      "importer": "gltf-material",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@4d032",
+      "displayName": "",
+      "id": "4d032",
+      "name": "XNR_1_UV2_11.material",
+      "userData": {
+        "gltfIndex": 9
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b4be9": {
+      "importer": "gltf-material",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@b4be9",
+      "displayName": "",
+      "id": "b4be9",
+      "name": "XNR_1_UV2_12.material",
+      "userData": {
+        "gltfIndex": 10
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7ec47": {
+      "importer": "gltf-material",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@7ec47",
+      "displayName": "",
+      "id": "7ec47",
+      "name": "XNR_1_UV2_13.material",
+      "userData": {
+        "gltfIndex": 11
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e08ac": {
+      "importer": "gltf-material",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@e08ac",
+      "displayName": "",
+      "id": "e08ac",
+      "name": "XNR_1_UV2_14.material",
+      "userData": {
+        "gltfIndex": 12
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c2eb4": {
+      "importer": "gltf-material",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@c2eb4",
+      "displayName": "",
+      "id": "c2eb4",
+      "name": "XNR_1_UV2_15.material",
+      "userData": {
+        "gltfIndex": 13
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ce768": {
+      "importer": "gltf-material",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@ce768",
+      "displayName": "",
+      "id": "ce768",
+      "name": "XNR_1_UV2_18.material",
+      "userData": {
+        "gltfIndex": 16
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a3d15": {
+      "importer": "gltf-material",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@a3d15",
+      "displayName": "",
+      "id": "a3d15",
+      "name": "XNR_1_UV2_19.material",
+      "userData": {
+        "gltfIndex": 17
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d1373": {
+      "importer": "gltf-scene",
+      "uuid": "c09d48cb-3f28-4729-9e13-e04635ec64cc@d1373",
+      "displayName": "",
+      "id": "d1373",
+      "name": "XNR_1_UV2_0.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "贴图 #72",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@e0843"
+      },
+      {
+        "name": "贴图 #75",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@08511"
+      },
+      {
+        "name": "贴图 #72",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@1940f"
+      },
+      {
+        "name": "贴图 #75",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@cdad5"
+      },
+      {
+        "name": "贴图 #72",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@291a9"
+      },
+      {
+        "name": "贴图 #75",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@c96d6"
+      },
+      {
+        "name": "贴图 #72",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@81b27"
+      },
+      {
+        "name": "贴图 #75",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@2b2b9"
+      },
+      {
+        "name": "贴图 #72",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@9eea3"
+      },
+      {
+        "name": "贴图 #75",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@39194"
+      },
+      {
+        "name": "贴图 #72",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@6fc8d"
+      },
+      {
+        "name": "贴图 #75",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@02c9a"
+      },
+      {
+        "name": "贴图 #72",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@f2c65"
+      },
+      {
+        "name": "贴图 #75",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@93d8e"
+      },
+      {
+        "name": "贴图 #72",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@91299"
+      },
+      {
+        "name": "贴图 #75",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@c5aab"
+      },
+      {
+        "name": "贴图 #72",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@7fe11"
+      },
+      {
+        "name": "贴图 #75",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@394ba"
+      },
+      {
+        "name": "贴图 #72",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@f6974"
+      },
+      {
+        "name": "贴图 #75",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@72859"
+      },
+      {
+        "name": "贴图 #72",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@89f0c"
+      },
+      {
+        "name": "贴图 #75",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@b55e6"
+      },
+      {
+        "name": "贴图 #72",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@3a375"
+      },
+      {
+        "name": "贴图 #75",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@ce987"
+      },
+      {
+        "name": "贴图 #72",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@e1516"
+      },
+      {
+        "name": "贴图 #75",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@9724e"
+      },
+      {
+        "name": "贴图 #72",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@9e731"
+      },
+      {
+        "name": "贴图 #75",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@d4f4f"
+      },
+      {
+        "name": "贴图 #72",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@4f31c"
+      },
+      {
+        "name": "贴图 #75",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@845ef"
+      },
+      {
+        "name": "贴图 #72",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@eadba"
+      },
+      {
+        "name": "贴图 #75",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@7d777"
+      },
+      {
+        "name": "贴图 #72",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@9a900"
+      },
+      {
+        "name": "贴图 #75",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@ab461"
+      },
+      {
+        "name": "贴图 #72",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@e41d7"
+      },
+      {
+        "name": "贴图 #75",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@49783"
+      },
+      {
+        "name": "贴图 #72",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@b1fc2"
+      },
+      {
+        "name": "贴图 #75",
+        "uri": "c09d48cb-3f28-4729-9e13-e04635ec64cc@52834"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "c09d48cb-3f28-4729-9e13-e04635ec64cc@d1373",
+    "assetFinder": {
+      "meshes": [
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@74d76",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@ea172",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@a898e",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@b4781",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@58b9a",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@f620a",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@4ee1f",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@9ae27",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@87906",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@1b670",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@878f9",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@9f7b8",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@6c0b2",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@90bc9",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@8805a",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@21ab8",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@3f05b",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@e8f8e",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@b1704"
+      ],
+      "skeletons": [],
+      "textures": [
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@4cec0",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@1810f",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@b04f4",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@e0b94",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@4fc76",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@5d6d8",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@8d160",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@0547a",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@676c0",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@62120",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@8f49f",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@d88da",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@69ed5",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@87fb2",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@d1454",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@55a45",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@a1f84",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@7ebce",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@ba3f9",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@328f6",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@d454b",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@7fb19",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@a5843",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@32462",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@7e1bf",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@1247b",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@e6fd4",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@44fa4",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@2b1e4",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@e0ed6",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@6e4fd",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@b98bb",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@a9f6b",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@26b6a",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@2f923",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@4be73",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@f652d",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@80af5"
+      ],
+      "materials": [
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@9307b",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@90f1f",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@46dcb",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@833c2",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@b6b2e",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@dca20",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@77000",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@5d97b",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@2d3d7",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@4d032",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@b4be9",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@7ec47",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@e08ac",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@c2eb4",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@99088",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@64727",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@ce768",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@a3d15",
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@48281"
+      ],
+      "scenes": [
+        "c09d48cb-3f28-4729-9e13-e04635ec64cc@d1373"
+      ]
+    }
+  }
+}
